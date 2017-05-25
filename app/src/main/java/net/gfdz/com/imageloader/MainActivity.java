@@ -23,7 +23,7 @@ import java.io.File;
  */
 public class MainActivity extends AppCompatActivity {
     private ImageView imageView;
-    private String uri = "http://f000.bai.com/data/uploads/2012/0920/16/9028fe248e9f8ab1dbf2746a1ea1c5cc_middle.jpeg";
+    private String uri = "http://220.163.128.18:9096/plug-in/drive/fys.jpg";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
